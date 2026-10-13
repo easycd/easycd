@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2e1065,100:0e7490&height=230&section=header&text=easycd&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B9%80%EC%9E%AC%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4&descSize=14&descAlignY=58&descColor=a5f3fc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2e1065,100:0e7490&height=230&section=header&text=easycd&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B9%80%EC%9E%AC%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4&descSize=14&descAlignY=58&descColor=a5f3fc&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/easycd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=%3E+Hello+World!+I'm+easycd;%3E+Building+things+with+code;%3E+Always+learning,+always+shipping" alt="typing"/></a>
 
