@@ -36,6 +36,9 @@
 <br/>
 <img height="30" src="https://img.shields.io/badge/IntelliJ%20IDEA-FE315D?style=flat&logo=intellijidea&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<br/>
+<img height="30" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Codex-000000?style=flat&logoColor=white"/>
 
 <br/>
 
