@@ -50,6 +50,8 @@
 
 <img src="https://streak-stats.demolab.com?user=easycd&hide_border=true&border_radius=16&background=135,0d1117,1e1b4b&ring=22d3ee&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=94a3b8&stroke=334155" width="72%"/>
 
+<img src="https://raw.githubusercontent.com/easycd/easycd/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
+
 <br/>
 
 <h3><code>@</code>&nbsp; Contact</h3>
