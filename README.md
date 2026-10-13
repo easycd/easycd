@@ -52,6 +52,8 @@
 
 <img src="https://raw.githubusercontent.com/easycd/easycd/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
 
+<img src="https://raw.githubusercontent.com/easycd/easycd/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
+
 <br/>
 
 <h3><code>@</code>&nbsp; Contact</h3>
