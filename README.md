@@ -35,7 +35,7 @@
 <img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/IntelliJ%20IDEA-FE315D?style=flat&logo=intellijidea&logoColor=white"/>
 <br/>
-<img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat"/>
 <img height="30" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat"/>
 <img height="30" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
@@ -44,7 +44,7 @@
 
 <h3><code>##</code>&nbsp; GitHub Stats</h3>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=easycd&show_icons=true&count_private=true&hide_border=true&border_radius=16&bg_color=135,0d1117,1e1b4b&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&ring_color=22d3ee"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=easycd&custom_title=easycd's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&border_radius=16&bg_color=135,0d1117,1e1b4b&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&ring_color=22d3ee"/>
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easycd&layout=donut&langs_count=6&hide_border=true&border_radius=16&bg_color=135,0d1117,1e1b4b&title_color=22d3ee&text_color=e2e8f0"/>
 
 <img src="https://streak-stats.demolab.com?user=easycd&hide_border=true&border_radius=16&background=135,0d1117,1e1b4b&ring=22d3ee&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=94a3b8&stroke=334155" width="72%"/>
