@@ -20,9 +20,10 @@
 
 <h3><code>~/</code>&nbsp; Studying</h3>
 
-<img height="30" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900"/>
+<img height="30" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
 <br/>
 
@@ -32,9 +33,12 @@
 <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black"/>
 <img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<br/>
 <img height="30" src="https://img.shields.io/badge/IntelliJ%20IDEA-FE315D?style=flat&logo=intellijidea&logoColor=white"/>
+<br/>
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat"/>
+<img height="30" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
 <br/>
 
