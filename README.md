@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2e1065,100:0e7490&height=230&section=header&text=%EC%9E%AC%EC%9B%90&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Easy%20Code%20%C2%B7%20Easy%20Deploy&descSize=18&descAlignY=58&descColor=a5f3fc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2e1065,100:0e7490&height=230&section=header&text=easycd&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Code%20%C2%B7%20Build%20%C2%B7%20Deploy%20%C2%B7%20Repeat&descSize=18&descAlignY=58&descColor=a5f3fc&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/easycd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=%3E+Hello+World!+I'm+%EC%9E%AC%EC%9B%90;%3E+Building+things+with+code;%3E+Always+learning,+always+shipping" alt="typing"/></a>
+<a href="https://github.com/easycd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=%3E+Hello+World!+I'm+easycd;%3E+Building+things+with+code;%3E+Always+learning,+always+shipping" alt="typing"/></a>
 
 <br/>
 
