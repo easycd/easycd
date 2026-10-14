@@ -60,7 +60,6 @@
 
 <a href="mailto:kimjewon789@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/easycd"><img height="30" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<img height="30" src="https://komarev.com/ghpvc/?username=easycd&style=flat&color=2e1065&label=VISITORS"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,55:2e1065,100:0d1117&height=120&section=footer" width="100%"/>
 
